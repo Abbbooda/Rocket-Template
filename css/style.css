@@ -82,3 +82,24 @@ header p{
         font-size: 1rem;
     }
 }
+
+/* Portfolio */
+.portfolio{
+    padding: 50px 0;
+    text-align: center;
+}
+
+.portfolio h2{
+    font-weight: 700;
+    color: #333;
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.portfolio .col-md-4{
+    margin-bottom: 20px;
+}
+.portfolio img{
+    cursor: pointer;
+}
